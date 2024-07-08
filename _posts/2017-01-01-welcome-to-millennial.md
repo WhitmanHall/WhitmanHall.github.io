@@ -7,3 +7,7 @@ tags: [documentation]
 image: Chivvy_HCR_Comp.png
 ---
 This is a 1 lb combat robot that I built in the summer of 2023 to compete at Orange County Maker Fair.
+---
+---
+image: HCR_Group.png
+A portion of the Highlander Combat Robotics team
