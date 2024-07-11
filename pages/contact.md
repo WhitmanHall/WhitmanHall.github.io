@@ -3,4 +3,4 @@ layout: page
 title: Contact
 permalink: /contact
 ---
-My Linkedin page can be viewed at <https://www.linkedin.com/in/whitmanhall/> or by clicking the Linkedin icon to the right
+My LinkedIn page can be viewed at <a href="https://www.linkedin.com/in/whitmanhall/" target="_blank">https://www.linkedin.com/in/whitmanhall</a> or by clicking the LinkedIn icon below
