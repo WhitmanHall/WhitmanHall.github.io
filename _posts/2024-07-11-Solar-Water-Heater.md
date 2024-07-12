@@ -31,7 +31,7 @@ During my time at UC Riverside I took a senior design class in which we were tas
 *Assembled trough with frame, plastic and linkage triangle*
 
 ![](/assets/img/swhbuild8.jpg)
-*Eddie screwing the passthrough bearing to the A-frame*
+*Eddie screwing the pass-through bearing to the A-frame*
 
 ![](/assets/img/swhbuild9.jpg)
 *Completed A-frame and trough assembly mounted to baseplate with pass-through hole for heater pipe*
