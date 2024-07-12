@@ -6,7 +6,7 @@ categories: documentation
 tags: [documentation]
 image: solarwaterheater.jpg
 ---
-During my time at UC Riverside I took a senior design class in which we were tasked with solving a specific problem. My group was given the problem of needing to heat up water for desalination purposes within a form factor that would fit on the roof of a building. I was the design and fabrication lead for the project and I singlehandedly designed the project in solidworks and helped my teammates build the prototype.
+During my time at UC Riverside I took a senior design class in which we were tasked with solving a specific problem. My group was given the problem of needing to heat up water for desalination purposes within a form factor that would fit on the roof of a building. I was the design and fabrication lead for the project and I single-handedly designed the project in solidworks and helped my teammates build the prototype.
 
 ## Building Timeline
 ![](/assets/img/swhbuild1.jpg)
@@ -34,10 +34,10 @@ During my time at UC Riverside I took a senior design class in which we were tas
 *Eddie screwing the passthrough bearing to the A-frame*
 
 ![](/assets/img/swhbuild9.jpg)
-*Completed A-frame and trough assembly mounted to baseplate with passthough hole for heater pipe*
+*Completed A-frame and trough assembly mounted to baseplate with pass-through hole for heater pipe*
 
 ![](/assets/img/swhbuild10.jpg)
-*Both completed reflector assemblys with mylar sticker and copper heater pipe installed*
+*Both completed reflector assemblies with mylar sticker and copper heater pipe installed*
 
 ![](/assets/img/swhbuild11.jpg)
 *Photo of Whitman Hall, Eddie, and Al with the close to complete project*
