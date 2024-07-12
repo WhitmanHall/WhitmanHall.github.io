@@ -47,22 +47,6 @@ body img {
   display: block;
   width: 1045px;
 }
-@media (max-width: $container-width) {
-  body img {
-    align: middle;
-    margin: 5px auto 5px;
-    display: block;
-    max-width: 90vw;
-  }
-}
-@media (max-width: $tablet-width) {
-  body img {
-    align: middle;
-    margin: 5px auto 5px;
-    display: block;
-    max-width: 90vw;
-  }
-}
 p {
   display: block;
   margin-top: 1em;
