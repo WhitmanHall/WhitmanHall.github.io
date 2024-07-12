@@ -41,6 +41,22 @@
     max-width: 90vw;
   }
 }
+@media (max-width: $container-width) {
+  body img {
+    align: middle;
+    margin: 5px auto 5px;
+    display: block;
+    max-width: 90vw;
+  }
+}
+@media (max-width: $tablet-width) {
+  body img {
+    align: middle;
+    margin: 5px auto 5px;
+    display: block;
+    max-width: 90vw;
+  }
+}
 .post-share {
   padding-bottom: 1rem;
 }
