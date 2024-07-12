@@ -1,5 +1,5 @@
 .post-content {
-  width: 1045px;
+  width: 1046px;
   display: block;
   margin: 10px auto 10px;
 }
@@ -14,7 +14,8 @@
   margin: 5px auto 25px;
   display: block;
   height: 400px;
-  max-width: 1045px;
+  object-fit: cover;
+  max-width: 1046px;
 }
 @media (max-width: $container-width) {
   .post-content {
@@ -27,6 +28,7 @@
     margin: 5px auto 25px;
     display: block;
     height: 400px;
+    object-fit: cover;
     max-width: 90vw;
   }
   body img {
@@ -47,6 +49,7 @@
     margin: 5px auto 25px;
     display: block;
     height: 400px;
+    object-fit: cover;
     max-width: 90vw;
   }
   body img {
@@ -80,7 +83,7 @@
 }
 .related-thumbnail {
   position: relative;
-  left: 250px;
+  left: 223px;
   width: 600px;
   height: 200px;
   overflow: hidden;
@@ -97,17 +100,19 @@
 }
 .related-title {
   position: relative;
-  right: 850px;
+  right: 223px;
   padding-bottom: .5rem;
   font-family: $base-font-family;
 }
 @media (max-width: $container-width) {
   .related-thumbnail{
     width: 90vw;
+    Left: auto;
   }
 }
 @media (max-width: $tablet-width) {
   .related-thumbnail{
     width: 90vw;
+    Left: auto;
   }
 }
