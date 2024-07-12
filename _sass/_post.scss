@@ -13,6 +13,7 @@
   align: middle;
   margin: 5px auto 25px;
   display: block;
+  height: 400px;
   max-width: 1045px;
 }
 @media (max-width: $container-width) {
@@ -25,6 +26,7 @@
     align: middle;
     margin: 5px auto 25px;
     display: block;
+    height: 400px;
     max-width: 90vw;
   }
   body img {
@@ -44,6 +46,7 @@
     align: middle;
     margin: 5px auto 25px;
     display: block;
+    height: 400px;
     max-width: 90vw;
   }
   body img {
@@ -77,6 +80,7 @@
 }
 .related-thumbnail {
   position: relative;
+  left: 250px;
   width: 600px;
   height: 200px;
   overflow: hidden;
@@ -92,17 +96,18 @@
           transform: translate(-50%,-50%);
 }
 .related-title {
-  float: right;
+  position: relative;
+  right: 850px;
   padding-bottom: .5rem;
   font-family: $base-font-family;
 }
 @media (max-width: $container-width) {
   .related-thumbnail{
-    width: 95vw;
+    width: 90vw;
   }
 }
 @media (max-width: $tablet-width) {
   .related-thumbnail{
-    width: 95vw;
+    width: 90vw;
   }
 }
