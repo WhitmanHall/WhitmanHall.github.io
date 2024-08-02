@@ -7,6 +7,8 @@ tags: [documentation]
 image: DFGT.jpg
 ---
 
+I had the idea for this project when I became disapointed with the strength and force feedback quality provided by my Logitech Driving Force GT racing wheel gaming controller that I use for driving simulator games. The origional motor and power MOSFETS were rated for 3 amps although the power supply was only providing 0.75 Amps. I upgraded the wheel with a more powerful motor with more holding torque, power MOSFETS with better power dissapation and 8 Amp rating and a 6 Amp power supply with over current protection. With these upgrades the wheel's force feedback is more responsive, the wheel is stronger, and the power chips run cooler than the origional configuration.
+
 ## Building Timeline
 ![](/assets/img/DFGTwithmotor.jpg)
 *The game wheel with old motor removed and more powerful motor installed*
