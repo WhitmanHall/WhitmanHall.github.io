@@ -3,5 +3,6 @@ layout: page
 title: About Me
 permalink: /about
 ---
-Hello, I am Whitman Hall  
-I am a mechanical engineer, educator, fabricator and tinkerer from the San Francisco Bay Area. I received my Bachelors of Science in Mechanical Engineering from the University of California, Riverside in March 2024 but I have been building things my whole life. I am always looking for new projects and opportunities that can help me learn new skills and techniques for designing and building mechanisms. I created this website to showcase my skills and select projects that I have completed over the years.  
+Hello, I'm Whitman Hall.
+
+I’m a mechanical engineer, educator, fabricator, and tinkerer based in the San Francisco Bay Area. I earned my Bachelor of Science in Mechanical Engineering from the University of California, Riverside in March 2024. Building and creating have been a lifelong passion of mine. I’m always eager to take on new projects and opportunities that help me develop my skills and explore innovative techniques in designing and constructing mechanisms. This website serves as a platform to showcase my expertise and highlight selected projects that demonstrate my experience and capabilities.
