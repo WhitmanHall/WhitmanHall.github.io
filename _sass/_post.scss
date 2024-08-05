@@ -25,7 +25,7 @@ body img {
   }
 @media (max-width: $container-width) {
   .post-content {
-    width: 90vw;
+    width: 75vw;
     display: block;
     margin: 10px auto 10px;
   }
@@ -35,13 +35,13 @@ body img {
     display: block;
     height: 400px;
     object-fit: cover;
-    max-width: 90vw;
+    max-width: 75vw;
   }
   body img {
     align: middle;
     margin: 5px auto 5px;
     display: block;
-    max-width: 90vw;
+    max-width: 75vw;
   }
 }
 @media (max-width: $tablet-width) {
@@ -89,7 +89,6 @@ body img {
 }
 .related-thumbnail {
   position: relative;
-  left: 223px;
   width: 600px;
   height: 200px;
   overflow: hidden;
@@ -111,7 +110,7 @@ body img {
 }
 @media (max-width: $container-width) {
   .related-thumbnail{
-    width: 90vw;
+    width: 75vw;
   }
 }
 @media (max-width: $tablet-width) {
