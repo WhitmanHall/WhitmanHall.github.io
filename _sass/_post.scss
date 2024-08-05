@@ -17,6 +17,12 @@
   object-fit: cover;
   max-width: 800px;
 }
+body img {
+    align: middle;
+    margin: 5px auto 5px;
+    display: block;
+    max-width: 800px;
+  }
 @media (max-width: $container-width) {
   .post-content {
     width: 90vw;
