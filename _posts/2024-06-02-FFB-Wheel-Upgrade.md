@@ -11,7 +11,7 @@ The inspiration for this project stemmed from my dissatisfaction with the streng
 
 ## Building Timeline
 ![](/assets/img/DFGTwithmotor.jpg)
-*The game wheel with old motor removed and more powerful motor installed*
+*The wheel with old motor removed and more powerful motor installed*
 
 ![](/assets/img/DFGToldmotor.jpg)
 *The original motor removed from the wheel*
