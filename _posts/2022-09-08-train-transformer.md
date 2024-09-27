@@ -8,7 +8,7 @@ image: traintransformer.jpg
 ---
 
 ## Project Intro
-This is a small electronics project I completed a few years ago to drive my HO model train set. The original analog speed control had been broken and I replaced the components with modern digital equivalents.
+A few years ago, I undertook a small electronics project to enhance my HO model train set controller. The original analog speed control had broken, so I replaced the outdated components with modern digital equivalents, significantly improving the performance and reliability of the system.
 
 ## Building Timeline
 ![transformerbefore](/assets/img/traintransformerbefore.jpg)
@@ -17,3 +17,6 @@ This is a small electronics project I completed a few years ago to drive my HO m
 <br>
 ![transformerelectronics](/assets/img/traintransformerelectronics.jpg)
 *A close up view of the added components, two DC-DC variable speed controllers on each side and an AC-DC converter in the middle*
+
+![](/assets/img/traintransformer.jpg)
+*Another view of the upgraded electronics*

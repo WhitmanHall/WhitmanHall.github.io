@@ -4,11 +4,23 @@ title: "Senior Design Project Solar Water Heater Prototype"
 author: "Whitman Hall"
 categories: documentation
 tags: [documentation]
-image: solarwaterheater.jpg
+image: swhbuild12.jpg
 ---
-During my time at UC Riverside I took a senior design class in which we were tasked with solving a specific problem. My group was given the problem of needing to heat up water for desalination purposes within a form factor that would fit on the roof of a building. I was the design and fabrication lead for the project and I single-handedly designed the project in solidworks and helped my teammates build the prototype.
+During my time at UC Riverside, I enrolled in a senior design class where we were challenged to solve a specific problem. Our task was to develop a solution for heating water for desalination purposes, constrained to a form factor suitable for rooftop installation. As the design and fabrication lead, I single-handedly designed the project in SolidWorks and played a pivotal role in guiding my teammates through the prototype construction.
 
-## Building Timeline
+##Design Phase
+![](/assets/img/swhproblemstatement.PNG)
+*The design requirements outlined in our presentation problem statement*
+![](/assets/img/SWHDesign.PNG)
+*My first design model*
+![](/assets/img/SWH.gif)
+*An animated demonstration showcasing the rotation of the troughs around the pipe within the frame*
+![](/assets/img/swhprototypedesign.PNG)
+*My revised model ready for prototyping*
+![](/assets/img/SWHBillOfMaterials.PNG)
+*The final bill of materials I compiled to prepare for the building process*
+
+## Building Timeline 
 ![](/assets/img/swhbuild1.jpg)
 *The aluminum linkage triangles that connect the reflective trough to the frame were machined*
 
@@ -44,3 +56,9 @@ During my time at UC Riverside I took a senior design class in which we were tas
 
 ![](/assets/img/swhbuild12.jpg)
 *The completed project prototype with temperature sensors and bucket reservoir*
+
+![](/assets/img/swhspraypaint.jpg)
+*Painting the heat pipes black to absorb more solar radiation*
+
+![](/assets/img/solarwaterheater.jpg)
+*The EPA Solar Water Heater Team. From left to right: Whitman, Peter, Eddie and Al*
