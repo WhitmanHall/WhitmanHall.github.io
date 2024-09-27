@@ -11,6 +11,7 @@ In the late summer of 2023, I designed and built a 1lb combat robot named Chivvy
 ### Building Process
 ![](/assets/img/combatrobotdesign.png)
 *The final CAD design of the robot, featuring all components installed, was utilized to digitally verify the precise fit and alignment of each part*
+
 ![combatrobotbuild](/assets/img/combatrobotbuild.jpg)
 *A photo capturing the robot in the final stages of assembly, just days before the competition*
 
