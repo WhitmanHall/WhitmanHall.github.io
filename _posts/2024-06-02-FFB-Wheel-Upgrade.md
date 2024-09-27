@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Racing Wheel Game Controller Upgrade"
+title: "Force Feedback Wheel Torque Upgrade"
 author: "Whitman Hall"
 categories: documentation
 tags: [documentation]
