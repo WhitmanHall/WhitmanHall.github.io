@@ -9,29 +9,24 @@ image: swhbuild12.jpg
 During my time at UC Riverside, I enrolled in a senior design class where we were challenged to solve a specific problem given to my team by the EPA. Our task was to develop a solution for heating water for desalination purposes, constrained to a form factor suitable for rooftop installation. As the design and fabrication lead, I single-handedly designed the project in SolidWorks and played a pivotal role in guiding my teammates through the prototype construction.
 
 ## Design Phase
-<kbd>
+
 ![](/assets/img/swhproblemstatement.PNG)
-<kbd>
 *The design requirements outlined in our presentation problem statement*
 
-<kbd>
+
 ![](/assets/img/SWHDesign.PNG)
-<kbd>
 *My first design model*
 
-<kbd>
+
 ![](/assets/img/SWH.gif)
-<kbd>
 *An animated demonstration showcasing the rotation of the troughs around the pipe within the frame*
 
-<kbd>
+
 ![](/assets/img/swhprototypedesign.PNG)
-<kbd>
 *My revised model ready for prototyping*
 
-<kbd>
+
 ![](/assets/img/SWHBillOfMaterials.PNG)
-<kbd>
 *The final bill of materials I compiled to prepare for the building process*
 
 ## Building Timeline 

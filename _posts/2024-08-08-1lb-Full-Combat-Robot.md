@@ -9,7 +9,7 @@ image: Chivvy_HCR_Comp.png
 In the late summer of 2023, I designed and built a 1lb combat robot named Chivvy to compete in the Southern California Attack Robotics (SCAR) Competition at the Orange County Maker Fair. Chivvy secured a respectable 9th place out of 16 in its weight class. In May 2024, I entered Chivvy in the Highlander Combat Robotics competition at UC Riverside, where it triumphed with a 1st place finish, earning the title for most destruction.
 
 ### Building Process
-![](/assets/img/combatrobotdesign.png)
+![](/assets/img/combatrobotdesign.PNG)
 *The final CAD design of the robot, featuring all components installed, was utilized to digitally verify the precise fit and alignment of each part*
 
 ![combatrobotbuild](/assets/img/combatrobotbuild.jpg)
