@@ -4,7 +4,7 @@ title: "Force Feedback Wheel Torque Upgrade"
 author: "Whitman Hall"
 categories: documentation
 tags: [documentation]
-image: DFGTnewchips.jpg
+image: DFGTBoardjpg
 ---
 
 The inspiration for this project stemmed from my dissatisfaction with the strength and force feedback quality of this Logitech force feedback steering wheel. The original motor and power MOSFETs were rated for 3 amps, while the power supply provided only 0.75 amps. To enhance performance, I upgraded the controller with a more powerful motor featuring increased holding torque, power MOSFETs with superior heat dissipation and 8-amp ratings, and a 6-amp power supply with over-current protection. These upgrades resulted in significantly improved force feedback responsiveness, greater torque, and cooler-running power chips compared to the original configuration.
@@ -38,4 +38,4 @@ The inspiration for this project stemmed from my dissatisfaction with the streng
 *Close up of cut trace to prevent left FET drain from running under chip and connecting to right FET drain foot*
 
 ![](/assets/img/DFGT.jpg)
-*The finished gaming wheel with new chips and motor*
+*The finished wheel with new chips and motor*
