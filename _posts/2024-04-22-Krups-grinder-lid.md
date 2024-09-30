@@ -14,4 +14,14 @@ I designed a replacement lid for a Krups coffee grinder using CAD software. The 
 ![](/assets/img/KrupsLidRender.PNG)
 *A realistic render of the lid model*
 
-More photos of final product coming soon.
+![](/assets/img/krups1.PNG)
+*The final 3D printed assembly*
+
+![](/assets/img/krups2.PNG)
+
+
+![](/assets/img/krups3.PNG)
+
+
+![](/assets/img/krups4.PNG)
+

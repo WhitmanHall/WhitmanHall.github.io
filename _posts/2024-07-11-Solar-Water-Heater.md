@@ -13,6 +13,33 @@ During my time at UC Riverside, I enrolled in a senior design class where we wer
 ![](/assets/img/swhproblemstatement.PNG)
 *The design requirements outlined in our presentation problem statement*
 
+![](/assets/img/consideredconcepts.PNG)
+
+![](/assets/img/conceptselection.PNG)
+
+![](/assets/img/pipematerial.PNG)
+
+![](/assets/img/pipediam.PNG)
+
+![](/assets/img/pipediamcalcs.PNG)
+
+![](/assets/img/pipediamcalcs2.PNG)
+
+![](/assets/img/pipeconst.PNG)
+
+![](/assets/img/troughmaterial.PNG)
+
+![](/assets/img/enganalasis.PNG)
+
+![](/assets/img/engcalcs.PNG)
+
+![](/assets/img/modsize.PNG)
+
+![](/assets/img/modcalcs.PNG)
+
+![](/assets/img/spacecalc.PNG)
+
+![](/assets/img/spacecalc2.PNG)
 
 ![](/assets/img/SWHDesign.PNG)
 *My first design model*
@@ -57,13 +84,13 @@ During my time at UC Riverside, I enrolled in a senior design class where we wer
 ![](/assets/img/swhbuild9.jpg)
 *Completed A-frame and trough assembly mounted to baseplate with pass-through hole for heater pipe*
 
-![](/assets/img/swhbuild9.5.jpg)
+![](/assets/img/swhbuild95.jpg)
 *Applying the mylar film*
 
 ![](/assets/img/swhbuild10.jpg)
 *Both completed reflector assemblies with mylar sticker and copper heater pipe installed*
 
-![](/assets/img/swhbuild10.5.jpg)
+![](/assets/img/swhbuild105.jpg)
 *The team completing final assembly*
 
 ![](/assets/img/swhbuild11.jpg)

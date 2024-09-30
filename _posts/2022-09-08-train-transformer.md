@@ -20,3 +20,6 @@ A few years ago, I undertook a small electronics project to enhance my HO model 
 
 ![](/assets/img/traintransformer.jpg)
 *Another view of the upgraded electronics*
+
+![](/assets/img/transformerdone.jpg)
+*The completed transformer with the knobs put on*
